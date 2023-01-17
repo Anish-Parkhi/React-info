@@ -1,0 +1,27 @@
+.react-image{
+    width: 10%;
+
+}
+
+.nav-heading{
+    margin: auto 0px;
+    color: #5EDBFC;
+    font-family: 'Inter', sans-serif;   
+}
+
+.div{
+    display: flex;
+    padding: 30px;
+    background-color: #21222B;
+}
+
+.para{
+    /* font-weight: bold; */
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    margin: auto 0px;
+    text-align: right;
+    margin-left: 50%;
+    justify-content: flex-end;
+    color: white;
+}
